@@ -1,0 +1,6 @@
+<launch>
+    <arg name="random_seed" default="0"/>   
+    <node pkg="random_init" name="random_init_node" type="random_init_node" output="screen">
+        <param name="random_seed" value="$(arg random_seed)" />
+    </node>
+</launch>
