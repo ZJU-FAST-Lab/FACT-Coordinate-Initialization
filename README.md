@@ -1,5 +1,5 @@
 # FACT-Fast-and-Active-Coordinate-Initialization
-Open source dode for our paper FACT: Fast and Active Coordinate Initialization for Vision-based Drone Swarm.
+Open source code for our paper FACT: Fast and Active Coordinate Initialization for Vision-based Drone Swarm.
 
 ## Introduction
 This repository contains the code for our paper FACT: Fast and Active Coordinate Initialization for Vision-based Drone Swarm. We provide the code for the simulation. The code base is still under development for easier deployment and use. We will keep updating the code base and provide more detailed instructions.
